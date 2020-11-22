@@ -1,2 +1,4 @@
+# Javascript Test 
 
-#this is a Private file
+
+-> This is a simple javascript nonsense project lol xD.
