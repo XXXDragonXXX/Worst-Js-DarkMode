@@ -1,3 +1,5 @@
 window.addEventListener('click', function() {
-	console.log('hi bro');
+	if (1 === 1) {
+		console.log(true);
+	}
 });
