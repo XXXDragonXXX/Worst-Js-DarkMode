@@ -14,5 +14,5 @@ if (theme === 'dark') {
 	document.querySelector('input').checked = true;
 	documentElement.setAttribute('data-theme', 'dark');
 } else {
-	documentElement.setAttribute('data-theme', 'dark');
+	documentElement.setAttribute('data-theme', 'light');
 }
