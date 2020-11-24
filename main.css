@@ -11,3 +11,11 @@ body {
 	align-items: center;
 	min-height: 100vh;
 }
+
+input {
+	width: 120px;
+	height: 80px;
+	background-blend-mode: #333;
+	border-radius: 50px;
+	transition: 0.2s linear;
+}
